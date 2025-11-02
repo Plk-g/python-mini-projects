@@ -1,4 +1,5 @@
 # 🐍 Python Mini-Projects
+![CI](https://github.com/Plk-g/python-mini-projects/actions/workflows/python-ci.yml/badge.svg)
 
 Small, self-contained Python apps and notebooks to practice algorithms, I/O, and simple game logic.
 
